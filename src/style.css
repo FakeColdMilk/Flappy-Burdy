@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+body {
+  margin: 0;
+  background-color: #222222;
+}
+
+#app {
+  display: flex;
+  min-height: 100vh;
+}
+
+#app>* {
+  margin: auto;
+}
